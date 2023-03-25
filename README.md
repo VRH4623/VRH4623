@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hemanth V R</h1>
+    <h1 align="center">Hi 👋, I'm Hemanth V R</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 - 🔭 I’m currently working on **KOT App**
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hemanthvr4623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanthvr4623" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hemanthvr4623" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="hemanthvr4623" height="30" width="30" />hemanthvr4623</a>
 <a href="https://instagram.com/hemanthravi.372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemanthravi.372" height="30" width="40" /></a>
 </p>
 
