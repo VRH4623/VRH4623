@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemanth V R</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on **KOT App**
 
 - 🌱 I’m currently learning **Problem solving & MERN-stack development**
 
