@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 
-- 🌱 I’m currently learning **Problem solving & Full Stack development**
+- 🌱 I’m currently learning **Problem solving & Networking**
 
 - 👨‍💻 All of my projects are available at [https://vrh4623.github.io/Portfolio/](https://vrh4623.github.io/Portfolio/)
 
