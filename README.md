@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hemanth4623@gmail.com**
 
-- 📄 Know about me (https://drive.google.com/file/d/1eB4qTkfkZIXrjJ2W2f-G_-jouoUJnW0H/view?usp=drivesdk)
+- 📄 Know about me (https://drive.google.com/file/d/1QJxXGhWz7M8Z8-DPQLHN_yb1cugoRWNy/view?usp=drive_link)
 
 - ⚡ Other about me : **I am a Cinephile**
 
